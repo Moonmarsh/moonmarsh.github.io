@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-### Contact me
+#### email:
 [me at moonmarsh.com]

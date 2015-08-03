@@ -13,4 +13,4 @@ The Moonmarsh story is a long one. Buy me a beer and I'll share it with you
 
 ### Contact me
 
-[me@moonmarsh.com](mailto:me@moonmarsh.com)
+[me at moonmarsh.com]
